@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  Hi 👋, I'm Gharbi Rayen<br>A passionate web developer from Tunisia<br><br>
+ <h1> Hi 👋, I'm Gharbi Rayen<br> </h1> <h2>A passionate web developer from Tunisia<br><br></h2>
 </div>
 
 ##  🌐 Socials:
