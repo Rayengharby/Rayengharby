@@ -3,12 +3,12 @@
  <h1> Hi 👋, I'm Gharbi Rayen </h1> <h2>A passionate web developer from Tunisia</h2>
  
 
-</div>
+
 <p align="center">
   <a href="https://www.map.org.uk"><img src="https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg" alt="Support Palestine"></a>
 </p>
 
-
+</div>
 ##  🌐 Socials:
 <div align="center">
   <a href="https://www.linkedin.com/in/rayen-gharbi-b9b339228/">
